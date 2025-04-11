@@ -4,9 +4,13 @@ This repository is for showing how Git and GitHub work
 
 ## Introduction
 
+This is an Introduction
+
 ## Purpose
 
 ## Deployment
+
+This is a deployment sector
 
 ## How to Contribute
 
